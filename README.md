@@ -32,6 +32,10 @@ YeBot was created as an exploration into the world of AI language models and cre
 
 4. **Audio Output**: The generated Jingle lyrics serve as a prompt for BART Bark, creating an audio file that users can listen to, providing a multi-sensory experience.
 
+
+https://github.com/rish59p/Custom-Bot-trained-on-custom-data-impersonating-Kanye-West-Text-Image-Audio-response-/assets/63728926/29311b83-b7f3-426a-8e79-de1d5f19ffcb
+
+
 ## Setup
 
 1. **Dependencies Installation**: Install the required dependencies by running:
