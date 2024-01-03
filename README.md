@@ -1,0 +1,2 @@
+# Custom-Bot-trained-on-custom-data-impersonating-Kanye-West-Text-Image-Audio-response-
+Created a custom bot trained on data taken from reddit comments to create embeddings to mimic sarcastic and slightly offensive behaviour. The user enters any general text and the bot will respond accordingly with text reply, an image reply of it's thought process and generate a song as a reply. Used GoogleGeminiPro, OpenDalleV1.1 and sunoBark-Small
